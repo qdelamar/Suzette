@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+body{
+  background-color: #666;
+  font-family: Rajdhani;
+  color: #eee;
+}
+
+button{
+color: rgb(226, 226, 226);
+  border-radius: 5px;
+  background: linear-gradient(145deg, #6d6d6d, #5c5c5c);
+  box-shadow:  2px 2px 5px #454545,
+               -2px -2px 5px #878787;
+}
+
+button:active{
+color: rgb(255, 255, 255);
+  border-radius: 5px;
+  background: #666666;
+  box-shadow: inset 2px 2px 5px #454545,
+              inset -2px -2px 5px #878787;
+}
+
+input{
+  color: rgb(226, 226, 226);
+    border-radius: 5px;
+    background: linear-gradient(145deg, #6d6d6d, #5c5c5c);
+    box-shadow:  2px 2px 5px #454545,
+                 -2px -2px 5px #878787;
+}
+
+input:active{
+color: rgb(255, 255, 255);
+  border-radius: 5px;
+  background: #666666;
+  box-shadow: inset 2px 2px 5px #454545,
+              inset -2px -2px 5px #878787;
+}
