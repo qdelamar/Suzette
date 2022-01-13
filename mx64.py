@@ -1,4 +1,5 @@
 #!/usr/bin/python3 -u
+#see https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/sample_code/python_read_write_protocol_2_0/#python-protocol-20
 
 import time
 from dynamixel_sdk import *
